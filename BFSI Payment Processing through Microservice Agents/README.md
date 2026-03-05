@@ -391,12 +391,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ---
 
-## 📞 Support & Contact
-
-- 📧 **Email:** yaswanthmerugumala@gmail.com
-
----
-
 
 ---
 
