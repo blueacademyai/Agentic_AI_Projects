@@ -266,18 +266,6 @@ We welcome contributions! Please follow these steps:
 - Include **unit tests** for new features
 - Update **documentation** as needed
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-### Getting Help
-- **📖 Documentation**: Check this README and code comments
-- **🐛 Issues**: Report bugs via GitHub Issues
-- **💬 Discussions**: Use GitHub Discussions for questions
-- **📧 Contact**: [your-email@domain.com]
-
 ### Useful Resources
 - [Streamlit Documentation](https://docs.streamlit.io)
 - [LangGraph Tutorial](https://python.langchain.com/docs/langgraph)
