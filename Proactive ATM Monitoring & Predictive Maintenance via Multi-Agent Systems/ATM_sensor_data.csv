@@ -1,0 +1,374 @@
+timestamp,temperature_c,network_latency_ms,cash_level_pct,city,branch,source_mode,auto_notify,technician_number,max_findings,risk_high_threshold,risk_med_threshold,generate_plan
+2025-09-01 00:00:00,37.11,297.71,78.76,Hyderabad,Secunderabad,simulated,True,+919346632848,2,0.8,0.5,False
+2025-09-01 00:10:00,36.92,151.6,22.87,Kolkata,Salt Lake,manual,True,+918405249101,7,0.8,0.5,False
+2025-09-01 00:20:00,40.28,243.84,37.24,Bengaluru,Electronic City,sensor,True,+918052556285,6,0.8,0.5,False
+2025-09-01 00:30:00,35.7,264.23,12.05,Kolkata,Howrah,manual,False,+918048234549,2,0.8,0.5,False
+2025-09-01 00:40:00,47.36,86.4,69.67,Pune,Shivajinagar,simulated,True,+917351035056,8,0.8,0.5,True
+2025-09-01 00:50:00,29.8,165.37,28.56,Pune,Hinjewadi,sensor,True,+918016825982,9,0.8,0.5,True
+2025-09-01 01:00:00,34.09,104.37,76.25,Delhi,Dwarka,manual,True,+919928643652,4,0.8,0.5,False
+2025-09-01 01:10:00,32.11,258.3,56.11,Kolkata,Howrah,simulated,True,+919105381923,8,0.8,0.5,True
+2025-09-01 01:20:00,35.91,180.98,51.9,Mumbai,Branch-02,manual,False,+917413878885,0,0.8,0.5,True
+2025-09-01 01:30:00,30.99,272.93,74.62,Ahmedabad,Navrangpura,manual,True,+919735298679,7,0.8,0.5,True
+2025-09-01 01:40:00,25.13,152.98,43.54,Chennai,T Nagar,sensor,True,+918672573069,6,0.8,0.5,True
+2025-09-01 01:50:00,44.74,267.24,7.44,Kolkata,Park Street,simulated,False,+919216571186,6,0.8,0.5,False
+2025-09-01 02:00:00,37.29,300.0,83.3,Chennai,T Nagar,manual,False,+918633974088,0,0.8,0.5,True
+2025-09-01 02:10:00,25.88,84.48,54.8,Pune,Hinjewadi,manual,True,+918638851880,10,0.8,0.5,True
+2025-09-01 02:20:00,40.51,295.47,57.01,Bengaluru,Electronic City,sensor,True,+919543366396,10,0.8,0.5,False
+2025-09-01 02:30:00,42.96,217.67,45.86,Chennai,T Nagar,manual,True,+919228473674,1,0.8,0.5,False
+2025-09-01 02:40:00,44.73,171.31,16.94,Mumbai,Branch-01,simulated,False,+919075053208,9,0.8,0.5,False
+2025-09-01 02:50:00,44.46,147.27,58.84,Mumbai,Branch-01,sensor,True,+918861479095,10,0.8,0.5,True
+2025-09-01 03:00:00,32.31,216.13,60.85,Ahmedabad,Satellite,manual,True,+918991258000,6,0.8,0.5,False
+2025-09-01 03:10:00,39.82,147.47,53.46,Mumbai,Branch-03,simulated,True,+917588996434,4,0.8,0.5,False
+2025-09-01 03:20:00,26.96,237.35,7.87,Mumbai,Branch-03,manual,False,+918731262316,3,0.8,0.5,True
+2025-09-01 03:30:00,41.99,161.69,52.67,Ahmedabad,Navrangpura,simulated,False,+917832242337,2,0.8,0.5,False
+2025-09-01 03:40:00,47.79,186.69,79.89,Pune,Shivajinagar,simulated,False,+919411393054,6,0.8,0.5,False
+2025-09-01 03:50:00,26.73,140.65,13.13,Chennai,Velachery,sensor,True,+918778597721,0,0.8,0.5,True
+2025-09-01 04:00:00,28.35,175.43,46.65,Delhi,Connaught,sensor,True,+917030055245,9,0.8,0.5,True
+2025-09-01 04:10:00,25.25,203.08,23.21,Bengaluru,Whitefield,simulated,True,+917900954249,4,0.8,0.5,True
+2025-09-01 04:20:00,40.1,275.76,7.46,Pune,Shivajinagar,manual,True,+917241419979,10,0.8,0.5,True
+2025-09-01 04:30:00,29.67,205.93,98.41,Chennai,Adyar,sensor,True,+918823822801,1,0.8,0.5,True
+2025-09-01 04:40:00,39.09,132.23,96.26,Bengaluru,Electronic City,manual,False,+919789855320,0,0.8,0.5,True
+2025-09-01 04:50:00,45.76,244.21,60.88,Pune,Hinjewadi,simulated,False,+918958331712,3,0.8,0.5,True
+2025-09-01 05:00:00,38.81,156.67,32.5,Bengaluru,Electronic City,manual,False,+918421819439,1,0.8,0.5,False
+2025-09-01 05:10:00,47.87,275.58,82.27,Pune,Kothrud,simulated,True,+919693708815,0,0.8,0.5,False
+2025-09-01 05:20:00,45.79,120.26,90.94,Chennai,Velachery,sensor,False,+918880961754,9,0.8,0.5,True
+2025-09-01 05:30:00,29.9,93.78,81.57,Mumbai,Branch-01,manual,False,+918218836487,4,0.8,0.5,True
+2025-09-01 05:40:00,43.71,99.09,54.67,Delhi,Connaught,sensor,True,+919955411596,10,0.8,0.5,False
+2025-09-01 05:50:00,34.31,134.7,82.7,Hyderabad,Banjara Hills,sensor,False,+919694413570,7,0.8,0.5,True
+2025-09-01 06:00:00,38.35,105.66,74.63,Mumbai,Branch-01,simulated,True,+917716553168,6,0.8,0.5,True
+2025-09-01 06:10:00,47.68,102.27,14.21,Bengaluru,Whitefield,simulated,True,+919154301284,4,0.8,0.5,False
+2025-09-01 06:20:00,38.7,239.15,62.62,Ahmedabad,Satellite,sensor,False,+919318215840,2,0.8,0.5,True
+2025-09-01 06:30:00,46.39,188.04,54.42,Bengaluru,Whitefield,manual,True,+919397001676,2,0.8,0.5,True
+2025-09-01 06:40:00,30.48,106.6,30.42,Ahmedabad,Navrangpura,manual,False,+918638760568,2,0.8,0.5,False
+2025-09-01 06:50:00,36.74,91.67,51.44,Hyderabad,Gachibowli,manual,True,+917529221125,10,0.8,0.5,False
+2025-09-01 07:00:00,27.65,161.94,59.07,Bengaluru,Whitefield,simulated,True,+918348010523,4,0.8,0.5,False
+2025-09-01 07:10:00,30.06,283.12,15.84,Chennai,T Nagar,simulated,False,+917093518072,9,0.8,0.5,False
+2025-09-01 07:20:00,26.93,259.25,35.65,Pune,Hinjewadi,simulated,False,+917391402882,2,0.8,0.5,True
+2025-09-01 07:30:00,32.18,137.43,26.83,Chennai,T Nagar,sensor,False,+918929377001,2,0.8,0.5,True
+2025-09-01 07:40:00,31.7,278.35,92.37,Pune,Hinjewadi,sensor,True,+919445718975,0,0.8,0.5,True
+2025-09-01 07:50:00,34.95,130.77,37.08,Delhi,Karol Bagh,simulated,False,+919540232620,10,0.8,0.5,False
+2025-09-01 08:00:00,42.61,225.82,13.71,Mumbai,Branch-02,simulated,False,+919742743648,8,0.8,0.5,True
+2025-09-01 08:10:00,37.48,97.11,28.88,Kolkata,Howrah,manual,True,+918164019334,7,0.8,0.5,True
+2025-09-01 08:20:00,30.19,138.9,35.34,Chennai,Adyar,sensor,False,+918067747945,0,0.8,0.5,True
+2025-09-01 08:30:00,25.56,287.48,72.0,Pune,Kothrud,manual,True,+918759122203,10,0.8,0.5,False
+2025-09-01 08:40:00,32.1,212.47,91.28,Mumbai,Branch-03,manual,True,+918103543299,4,0.8,0.5,True
+2025-09-01 08:50:00,35.54,162.34,66.01,Delhi,Connaught,sensor,False,+919189533476,0,0.8,0.5,False
+2025-09-01 09:00:00,31.1,114.27,9.19,Pune,Hinjewadi,manual,False,+918265712737,8,0.8,0.5,False
+2025-09-01 09:10:00,30.35,298.61,71.84,Bengaluru,Electronic City,sensor,False,+919736827288,9,0.8,0.5,True
+2025-09-01 09:20:00,36.02,276.22,45.7,Bengaluru,Electronic City,sensor,True,+919874955474,7,0.8,0.5,False
+2025-09-01 09:30:00,28.1,154.46,33.49,Mumbai,Branch-03,sensor,True,+918817708197,7,0.8,0.5,False
+2025-09-01 09:40:00,32.25,134.21,37.93,Hyderabad,Gachibowli,simulated,False,+918170181007,6,0.8,0.5,True
+2025-09-01 09:50:00,38.77,186.82,67.29,Mumbai,Branch-03,manual,True,+917638305291,8,0.8,0.5,False
+2025-09-01 10:00:00,44.94,133.58,38.56,Pune,Shivajinagar,sensor,False,+919552425322,8,0.8,0.5,True
+2025-09-01 10:10:00,37.58,91.03,80.34,Kolkata,Salt Lake,sensor,True,+917214912770,7,0.8,0.5,False
+2025-09-01 10:20:00,38.62,144.86,53.27,Pune,Shivajinagar,sensor,False,+919916496508,1,0.8,0.5,True
+2025-09-01 10:30:00,47.3,212.39,44.68,Delhi,Connaught,simulated,True,+919001452050,5,0.8,0.5,True
+2025-09-01 10:40:00,42.8,164.32,10.17,Kolkata,Howrah,simulated,True,+919303944843,1,0.8,0.5,True
+2025-09-01 10:50:00,36.57,256.18,25.63,Kolkata,Park Street,sensor,True,+918374371155,10,0.8,0.5,False
+2025-09-01 11:00:00,32.49,293.51,68.24,Pune,Hinjewadi,simulated,True,+917263529341,6,0.8,0.5,False
+2025-09-01 11:10:00,30.83,156.78,98.54,Hyderabad,Gachibowli,sensor,False,+917012573891,1,0.8,0.5,True
+2025-09-01 11:20:00,35.95,187.22,80.12,Hyderabad,Secunderabad,manual,False,+918009142065,10,0.8,0.5,True
+2025-09-01 11:30:00,38.0,91.8,59.65,Ahmedabad,Navrangpura,sensor,True,+918121444344,3,0.8,0.5,False
+2025-09-01 11:40:00,34.57,104.42,25.51,Ahmedabad,Navrangpura,sensor,True,+917428602155,8,0.8,0.5,True
+2025-09-01 11:50:00,44.79,178.87,43.6,Bengaluru,Whitefield,sensor,True,+917963250981,10,0.8,0.5,False
+2025-09-01 12:00:00,32.49,81.18,73.11,Hyderabad,Gachibowli,manual,True,+918337092240,2,0.8,0.5,True
+2025-09-01 12:10:00,45.32,134.47,58.66,Pune,Hinjewadi,sensor,True,+917228421258,6,0.8,0.5,True
+2025-09-01 12:20:00,43.76,148.0,23.05,Ahmedabad,Satellite,simulated,True,+919975122302,10,0.8,0.5,False
+2025-09-01 12:30:00,35.34,228.75,87.04,Delhi,Connaught,sensor,True,+917724852319,2,0.8,0.5,True
+2025-09-01 12:40:00,27.1,295.96,97.22,Delhi,Connaught,simulated,True,+917735512262,2,0.8,0.5,False
+2025-09-01 12:50:00,25.51,139.38,69.55,Chennai,Adyar,manual,False,+919830197637,1,0.8,0.5,False
+2025-09-01 13:00:00,30.04,295.85,10.68,Ahmedabad,Maninagar,sensor,False,+918860769337,4,0.8,0.5,False
+2025-09-01 13:10:00,45.69,113.14,82.03,Chennai,Velachery,sensor,True,+917818673404,5,0.8,0.5,True
+2025-09-01 13:20:00,34.82,100.6,31.97,Ahmedabad,Navrangpura,sensor,False,+917160629379,4,0.8,0.5,True
+2025-09-01 13:30:00,46.17,196.1,30.54,Ahmedabad,Navrangpura,simulated,False,+917420357976,2,0.8,0.5,True
+2025-09-01 13:40:00,39.31,153.72,18.55,Kolkata,Salt Lake,sensor,True,+919924202025,6,0.8,0.5,True
+2025-09-01 13:50:00,43.7,147.86,38.63,Delhi,Karol Bagh,manual,False,+918760821848,0,0.8,0.5,True
+2025-09-01 14:00:00,32.62,159.96,35.47,Chennai,T Nagar,manual,False,+919172809207,2,0.8,0.5,False
+2025-09-01 14:10:00,40.02,225.78,98.38,Pune,Hinjewadi,manual,True,+918462613203,3,0.8,0.5,False
+2025-09-01 14:20:00,46.1,114.24,81.4,Hyderabad,Secunderabad,simulated,True,+917664480443,5,0.8,0.5,False
+2025-09-01 14:30:00,35.59,222.36,6.74,Bengaluru,Whitefield,manual,False,+918422415488,4,0.8,0.5,False
+2025-09-01 14:40:00,28.04,185.99,10.12,Mumbai,Branch-03,simulated,False,+917276033437,7,0.8,0.5,True
+2025-09-01 14:50:00,44.95,199.4,6.91,Bengaluru,Whitefield,sensor,False,+919854316793,9,0.8,0.5,False
+2025-09-01 15:00:00,36.91,257.65,9.82,Hyderabad,Gachibowli,simulated,False,+919552249233,10,0.8,0.5,False
+2025-09-01 15:10:00,34.88,217.11,30.15,Hyderabad,Secunderabad,simulated,False,+918580447983,2,0.8,0.5,False
+2025-09-01 15:20:00,47.12,293.88,88.75,Hyderabad,Banjara Hills,simulated,True,+917996257007,1,0.8,0.5,False
+2025-09-01 15:30:00,42.26,278.44,63.72,Chennai,Velachery,simulated,True,+918840524070,4,0.8,0.5,True
+2025-09-01 15:40:00,43.79,106.73,54.94,Chennai,Adyar,sensor,True,+919365056004,0,0.8,0.5,True
+2025-09-01 15:50:00,30.11,81.28,59.52,Mumbai,Branch-02,sensor,True,+917262761652,5,0.8,0.5,True
+2025-09-01 16:00:00,44.83,199.81,50.35,Delhi,Karol Bagh,sensor,False,+918216926213,3,0.8,0.5,True
+2025-09-01 16:10:00,35.04,292.86,5.77,Delhi,Connaught,simulated,False,+919728606418,3,0.8,0.5,True
+2025-09-01 16:20:00,35.18,144.63,90.61,Ahmedabad,Maninagar,manual,False,+919806106024,5,0.8,0.5,False
+2025-09-01 16:30:00,43.83,205.1,35.09,Delhi,Connaught,manual,True,+918496042774,7,0.8,0.5,True
+2025-09-01 16:40:00,43.8,181.83,47.46,Pune,Hinjewadi,manual,True,+918610004456,6,0.8,0.5,True
+2025-09-01 16:50:00,45.27,186.58,16.95,Bengaluru,Whitefield,sensor,False,+918325579552,10,0.8,0.5,True
+2025-09-01 17:00:00,28.48,143.21,41.96,Ahmedabad,Satellite,sensor,True,+917257275064,7,0.8,0.5,False
+2025-09-01 17:10:00,41.79,242.86,60.26,Pune,Shivajinagar,sensor,False,+917347646362,6,0.8,0.5,False
+2025-09-01 17:20:00,47.7,184.58,27.81,Ahmedabad,Maninagar,manual,True,+918921752151,5,0.8,0.5,False
+2025-09-01 17:30:00,37.48,83.25,55.67,Chennai,Adyar,sensor,False,+917955653270,4,0.8,0.5,False
+2025-09-01 17:40:00,43.51,130.12,78.25,Ahmedabad,Navrangpura,simulated,True,+919561051206,4,0.8,0.5,True
+2025-09-01 17:50:00,39.85,111.77,54.08,Bengaluru,Electronic City,manual,True,+919108529718,8,0.8,0.5,True
+2025-09-01 18:00:00,33.2,229.65,52.04,Kolkata,Park Street,manual,False,+917125417371,3,0.8,0.5,False
+2025-09-01 18:10:00,26.48,88.21,27.66,Bengaluru,MG Road,sensor,True,+917455481240,0,0.8,0.5,True
+2025-09-01 18:20:00,36.65,127.04,21.5,Mumbai,Branch-01,sensor,True,+918186905761,2,0.8,0.5,False
+2025-09-01 18:30:00,33.33,226.67,53.73,Pune,Kothrud,sensor,True,+918946087628,0,0.8,0.5,False
+2025-09-01 18:40:00,43.08,289.63,28.25,Mumbai,Branch-03,sensor,False,+919995680243,5,0.8,0.5,False
+2025-09-01 18:50:00,38.5,109.68,8.47,Kolkata,Howrah,manual,False,+917297536865,2,0.8,0.5,True
+2025-09-01 19:00:00,36.48,168.45,86.7,Delhi,Karol Bagh,simulated,False,+918864029334,2,0.8,0.5,True
+2025-09-01 19:10:00,39.5,263.35,83.5,Pune,Kothrud,simulated,False,+918716644744,6,0.8,0.5,True
+2025-09-01 19:20:00,44.46,119.8,31.73,Chennai,Velachery,manual,False,+918588447115,6,0.8,0.5,True
+2025-09-01 19:30:00,30.14,137.34,73.11,Pune,Kothrud,simulated,False,+918450831582,3,0.8,0.5,False
+2025-09-01 19:40:00,34.17,223.8,41.78,Hyderabad,Gachibowli,manual,False,+919035257287,4,0.8,0.5,True
+2025-09-01 19:50:00,44.46,168.86,94.3,Hyderabad,Banjara Hills,manual,False,+919828489973,2,0.8,0.5,True
+2025-09-01 20:00:00,30.99,214.89,90.75,Chennai,Adyar,manual,False,+918055223450,3,0.8,0.5,False
+2025-09-01 20:10:00,41.77,136.46,31.0,Ahmedabad,Maninagar,simulated,False,+918202240156,4,0.8,0.5,False
+2025-09-01 20:20:00,36.83,194.04,17.13,Chennai,Velachery,simulated,False,+919251941862,5,0.8,0.5,True
+2025-09-01 20:30:00,46.62,212.65,90.11,Chennai,T Nagar,simulated,True,+917164883793,3,0.8,0.5,True
+2025-09-01 20:40:00,28.24,171.37,51.51,Hyderabad,Secunderabad,manual,False,+918988036526,6,0.8,0.5,False
+2025-09-01 20:50:00,37.51,123.5,68.46,Kolkata,Park Street,manual,True,+919273140144,9,0.8,0.5,False
+2025-09-01 21:00:00,43.96,138.14,26.02,Hyderabad,Secunderabad,manual,False,+918888941309,3,0.8,0.5,False
+2025-09-01 21:10:00,29.84,166.49,94.13,Hyderabad,Banjara Hills,sensor,False,+918004121978,0,0.8,0.5,False
+2025-09-01 21:20:00,40.8,197.04,7.73,Mumbai,Branch-03,simulated,False,+918764496772,1,0.8,0.5,False
+2025-09-01 21:30:00,32.36,284.69,17.3,Pune,Kothrud,simulated,True,+919596592175,1,0.8,0.5,False
+2025-09-01 21:40:00,43.02,109.69,56.92,Hyderabad,Gachibowli,sensor,False,+917010551530,4,0.8,0.5,False
+2025-09-01 21:50:00,28.83,146.42,18.76,Bengaluru,MG Road,manual,True,+919543022023,6,0.8,0.5,False
+2025-09-01 22:00:00,29.53,271.22,24.2,Delhi,Dwarka,simulated,False,+919342869108,6,0.8,0.5,True
+2025-09-01 22:10:00,44.0,137.06,26.96,Hyderabad,Secunderabad,simulated,True,+917914668036,6,0.8,0.5,False
+2025-09-01 22:20:00,41.49,101.71,19.69,Kolkata,Howrah,manual,False,+917362189997,8,0.8,0.5,False
+2025-09-01 22:30:00,46.08,150.04,5.84,Chennai,Adyar,manual,False,+917307212335,1,0.8,0.5,True
+2025-09-01 22:40:00,40.11,240.34,13.29,Chennai,Adyar,manual,True,+918469096436,3,0.8,0.5,False
+2025-09-01 22:50:00,26.76,277.06,41.68,Delhi,Dwarka,simulated,False,+917121266779,1,0.8,0.5,True
+2025-09-01 23:00:00,34.42,197.75,89.87,Bengaluru,Electronic City,simulated,True,+917033983232,10,0.8,0.5,False
+2025-09-01 23:10:00,45.48,293.14,90.88,Ahmedabad,Satellite,sensor,False,+919899944402,7,0.8,0.5,False
+2025-09-01 23:20:00,46.69,268.94,57.24,Chennai,Velachery,sensor,False,+917888858036,1,0.8,0.5,False
+2025-09-01 23:30:00,37.36,236.3,18.07,Bengaluru,Whitefield,simulated,True,+917737928086,10,0.8,0.5,True
+2025-09-01 23:40:00,36.02,209.98,19.03,Bengaluru,MG Road,sensor,False,+918845641363,1,0.8,0.5,True
+2025-09-01 23:50:00,44.33,209.88,71.76,Mumbai,Branch-03,sensor,True,+918163177598,8,0.8,0.5,False
+2025-09-02 00:00:00,40.04,233.15,85.34,Delhi,Connaught,simulated,False,+919081270039,6,0.8,0.5,False
+2025-09-02 00:10:00,33.97,84.48,58.38,Pune,Kothrud,manual,True,+918211322132,7,0.8,0.5,True
+2025-09-02 00:20:00,36.91,203.14,91.51,Hyderabad,Gachibowli,manual,False,+917672611232,4,0.8,0.5,False
+2025-09-02 00:30:00,46.3,199.1,31.33,Chennai,T Nagar,simulated,False,+918790269350,5,0.8,0.5,True
+2025-09-02 00:40:00,36.83,261.25,59.89,Mumbai,Branch-03,manual,False,+919525278285,8,0.8,0.5,False
+2025-09-02 00:50:00,38.64,270.18,64.47,Delhi,Karol Bagh,sensor,False,+918685846712,9,0.8,0.5,True
+2025-09-02 01:00:00,35.23,288.55,52.6,Pune,Hinjewadi,simulated,True,+917703519719,1,0.8,0.5,False
+2025-09-02 01:10:00,28.75,190.37,62.13,Chennai,Adyar,manual,False,+919979825468,8,0.8,0.5,True
+2025-09-02 01:20:00,37.66,293.75,66.88,Mumbai,Branch-01,simulated,False,+919302540783,6,0.8,0.5,False
+2025-09-02 01:30:00,47.59,172.61,23.01,Mumbai,Branch-03,sensor,True,+919277261290,5,0.8,0.5,False
+2025-09-02 01:40:00,25.96,297.59,35.96,Delhi,Connaught,manual,False,+918495640717,9,0.8,0.5,True
+2025-09-02 01:50:00,37.2,169.09,92.42,Kolkata,Howrah,simulated,True,+917704049431,0,0.8,0.5,True
+2025-09-02 02:00:00,36.38,289.68,56.29,Pune,Hinjewadi,simulated,True,+917251163311,9,0.8,0.5,False
+2025-09-02 02:10:00,40.36,277.04,75.64,Chennai,T Nagar,simulated,False,+919088362465,5,0.8,0.5,True
+2025-09-02 02:20:00,26.66,249.8,43.9,Hyderabad,Secunderabad,manual,False,+917138345787,5,0.8,0.5,False
+2025-09-02 02:30:00,34.11,208.25,7.92,Mumbai,Branch-01,manual,True,+917385333519,8,0.8,0.5,False
+2025-09-02 02:40:00,40.43,121.45,49.02,Pune,Shivajinagar,simulated,False,+919274228985,8,0.8,0.5,False
+2025-09-02 02:50:00,36.68,278.73,26.17,Delhi,Connaught,simulated,False,+917445142238,5,0.8,0.5,True
+2025-09-02 03:00:00,42.55,250.12,65.58,Kolkata,Howrah,simulated,True,+919797864484,10,0.8,0.5,True
+2025-09-02 03:10:00,33.44,80.57,11.2,Pune,Hinjewadi,manual,False,+918663428754,4,0.8,0.5,False
+2025-09-02 03:20:00,34.83,143.07,66.4,Chennai,T Nagar,simulated,False,+919625894764,0,0.8,0.5,True
+2025-09-02 03:30:00,25.64,235.92,61.37,Bengaluru,Electronic City,sensor,True,+919346071097,7,0.8,0.5,True
+2025-09-02 03:40:00,27.94,93.6,65.22,Mumbai,Branch-03,manual,False,+917871955102,7,0.8,0.5,False
+2025-09-02 03:50:00,28.1,293.19,62.94,Mumbai,Branch-03,sensor,False,+919799624640,10,0.8,0.5,False
+2025-09-02 04:00:00,25.4,215.59,41.71,Ahmedabad,Maninagar,sensor,False,+918017924508,7,0.8,0.5,True
+2025-09-02 04:10:00,39.31,126.76,19.05,Hyderabad,Secunderabad,sensor,False,+917927345595,6,0.8,0.5,False
+2025-09-02 04:20:00,40.46,189.56,16.22,Ahmedabad,Maninagar,sensor,False,+919531843517,8,0.8,0.5,True
+2025-09-02 04:30:00,35.4,265.38,74.32,Kolkata,Salt Lake,manual,True,+917882278326,3,0.8,0.5,True
+2025-09-02 04:40:00,47.58,181.03,17.62,Kolkata,Park Street,manual,False,+917119203365,6,0.8,0.5,True
+2025-09-02 04:50:00,44.28,241.09,59.04,Delhi,Karol Bagh,manual,True,+919106317505,5,0.8,0.5,False
+2025-09-02 05:00:00,26.15,254.77,5.41,Delhi,Karol Bagh,simulated,False,+917356892292,1,0.8,0.5,False
+2025-09-02 05:10:00,37.8,153.58,41.31,Pune,Hinjewadi,simulated,False,+918995240382,5,0.8,0.5,True
+2025-09-02 05:20:00,31.57,253.38,67.63,Kolkata,Howrah,simulated,False,+919679164334,5,0.8,0.5,False
+2025-09-02 05:30:00,36.53,298.38,82.11,Mumbai,Branch-01,manual,True,+917091804274,3,0.8,0.5,True
+2025-09-02 05:40:00,31.78,187.57,63.52,Mumbai,Branch-02,manual,False,+919265642990,2,0.8,0.5,True
+2025-09-02 05:50:00,28.45,257.34,54.4,Hyderabad,Secunderabad,sensor,False,+917892276031,10,0.8,0.5,True
+2025-09-02 06:00:00,35.52,159.54,63.42,Hyderabad,Banjara Hills,manual,True,+919754293715,2,0.8,0.5,True
+2025-09-02 06:10:00,30.01,149.57,49.76,Delhi,Dwarka,simulated,True,+918072547875,1,0.8,0.5,False
+2025-09-02 06:20:00,40.78,229.44,54.99,Chennai,Adyar,manual,False,+918946152850,10,0.8,0.5,False
+2025-09-02 06:30:00,41.94,169.19,81.43,Hyderabad,Secunderabad,sensor,False,+917890888009,9,0.8,0.5,False
+2025-09-02 06:40:00,46.15,115.19,51.31,Ahmedabad,Navrangpura,sensor,True,+918238230832,10,0.8,0.5,False
+2025-09-02 06:50:00,27.8,179.44,55.44,Hyderabad,Gachibowli,sensor,True,+917631740421,7,0.8,0.5,True
+2025-09-02 07:00:00,27.77,178.53,52.13,Pune,Hinjewadi,simulated,True,+917339642790,10,0.8,0.5,True
+2025-09-02 07:10:00,39.23,238.91,38.57,Bengaluru,Whitefield,simulated,False,+919558913668,9,0.8,0.5,True
+2025-09-02 07:20:00,30.98,267.32,66.63,Pune,Kothrud,simulated,False,+918684337818,6,0.8,0.5,False
+2025-09-02 07:30:00,42.57,159.1,14.76,Delhi,Connaught,manual,False,+919671067564,1,0.8,0.5,False
+2025-09-02 07:40:00,41.97,265.76,48.71,Kolkata,Salt Lake,sensor,False,+918734269932,1,0.8,0.5,True
+2025-09-02 07:50:00,29.75,151.39,81.8,Pune,Kothrud,sensor,True,+917155156027,8,0.8,0.5,False
+2025-09-02 08:00:00,28.51,249.74,23.73,Mumbai,Branch-03,simulated,True,+917438146651,9,0.8,0.5,False
+2025-09-02 08:10:00,46.59,114.27,15.94,Bengaluru,Whitefield,manual,False,+919647778559,4,0.8,0.5,False
+2025-09-02 08:20:00,29.11,204.74,8.7,Hyderabad,Gachibowli,simulated,False,+918147398845,10,0.8,0.5,False
+2025-09-02 08:30:00,45.73,98.82,32.09,Kolkata,Salt Lake,manual,False,+918274390941,7,0.8,0.5,True
+2025-09-02 08:40:00,36.61,281.53,76.71,Pune,Kothrud,manual,False,+917753035329,3,0.8,0.5,True
+2025-09-02 08:50:00,46.45,145.4,70.67,Hyderabad,Secunderabad,simulated,False,+917428670626,9,0.8,0.5,True
+2025-09-02 09:00:00,31.26,276.35,42.13,Hyderabad,Gachibowli,manual,False,+918502924103,5,0.8,0.5,False
+2025-09-02 09:10:00,34.05,205.73,78.96,Kolkata,Howrah,manual,False,+917045159348,5,0.8,0.5,False
+2025-09-02 09:20:00,37.4,173.35,72.1,Pune,Shivajinagar,manual,True,+918287226138,10,0.8,0.5,True
+2025-09-02 09:30:00,35.77,234.21,53.38,Bengaluru,Whitefield,manual,True,+919684825789,10,0.8,0.5,True
+2025-09-02 09:40:00,36.1,80.4,58.07,Bengaluru,Electronic City,sensor,False,+919533270922,8,0.8,0.5,False
+2025-09-02 09:50:00,32.52,273.85,26.91,Chennai,T Nagar,sensor,True,+918896849829,4,0.8,0.5,False
+2025-09-02 10:00:00,43.71,250.54,22.5,Delhi,Dwarka,manual,True,+919210042849,0,0.8,0.5,False
+2025-09-02 10:10:00,27.13,167.3,47.19,Ahmedabad,Maninagar,sensor,False,+917329739482,1,0.8,0.5,True
+2025-09-02 10:20:00,29.66,171.06,46.42,Kolkata,Howrah,simulated,False,+918495086715,8,0.8,0.5,False
+2025-09-02 10:30:00,39.68,289.84,59.48,Kolkata,Park Street,manual,False,+919079325287,3,0.8,0.5,False
+2025-09-02 10:40:00,28.54,169.92,41.36,Chennai,Adyar,sensor,False,+918113111841,6,0.8,0.5,False
+2025-09-02 10:50:00,27.36,217.12,48.91,Mumbai,Branch-03,sensor,False,+917035887906,2,0.8,0.5,False
+2025-09-02 11:00:00,37.76,205.73,94.31,Hyderabad,Secunderabad,sensor,False,+919653407645,5,0.8,0.5,True
+2025-09-02 11:10:00,27.72,219.25,82.46,Ahmedabad,Navrangpura,manual,True,+919469092276,9,0.8,0.5,True
+2025-09-02 11:20:00,41.88,215.49,33.4,Mumbai,Branch-02,simulated,True,+917214019164,10,0.8,0.5,False
+2025-09-02 11:30:00,40.68,199.05,42.3,Hyderabad,Gachibowli,simulated,True,+918847129008,6,0.8,0.5,True
+2025-09-02 11:40:00,28.46,294.46,81.42,Bengaluru,Electronic City,manual,False,+917798872063,3,0.8,0.5,False
+2025-09-02 11:50:00,43.64,250.7,27.83,Ahmedabad,Maninagar,manual,True,+918028990938,6,0.8,0.5,False
+2025-09-02 12:00:00,36.14,220.56,6.23,Mumbai,Branch-01,manual,False,+918476779410,5,0.8,0.5,True
+2025-09-02 12:10:00,31.19,261.19,80.43,Hyderabad,Gachibowli,simulated,False,+919115951674,6,0.8,0.5,False
+2025-09-02 12:20:00,25.84,197.4,85.3,Bengaluru,Electronic City,sensor,True,+917308714987,5,0.8,0.5,True
+2025-09-02 12:30:00,44.8,222.66,91.78,Mumbai,Branch-03,sensor,False,+919485361574,2,0.8,0.5,True
+2025-09-02 12:40:00,46.41,151.45,89.12,Delhi,Connaught,sensor,False,+918607634296,1,0.8,0.5,False
+2025-09-02 12:50:00,35.86,257.19,58.04,Pune,Shivajinagar,simulated,False,+918182783387,4,0.8,0.5,True
+2025-09-02 13:00:00,32.96,284.21,43.52,Pune,Kothrud,simulated,True,+919939523450,7,0.8,0.5,False
+2025-09-02 13:10:00,42.69,224.24,12.93,Pune,Hinjewadi,sensor,False,+919929379360,9,0.8,0.5,False
+2025-09-02 13:20:00,26.66,168.0,54.28,Chennai,Adyar,manual,False,+918194672023,6,0.8,0.5,False
+2025-09-02 13:30:00,37.58,80.16,26.45,Chennai,Velachery,simulated,False,+919050319622,10,0.8,0.5,False
+2025-09-02 13:40:00,30.59,95.42,62.99,Hyderabad,Gachibowli,manual,True,+919111760747,7,0.8,0.5,False
+2025-09-02 13:50:00,29.15,201.2,47.39,Chennai,Velachery,sensor,False,+919701069641,10,0.8,0.5,True
+2025-09-02 14:00:00,29.99,180.0,52.13,Kolkata,Howrah,simulated,False,+919203970889,3,0.8,0.5,False
+2025-09-02 14:10:00,45.69,238.27,21.48,Ahmedabad,Satellite,simulated,True,+919749582612,7,0.8,0.5,False
+2025-09-02 14:20:00,44.57,131.44,55.03,Chennai,Adyar,manual,True,+919070177611,1,0.8,0.5,False
+2025-09-02 14:30:00,26.17,216.16,66.98,Chennai,Adyar,sensor,True,+919050208993,0,0.8,0.5,False
+2025-09-02 14:40:00,43.08,226.13,35.51,Delhi,Karol Bagh,manual,True,+917416907381,5,0.8,0.5,False
+2025-09-02 14:50:00,25.96,194.97,86.73,Hyderabad,Banjara Hills,simulated,False,+919809186073,1,0.8,0.5,False
+2025-09-02 15:00:00,25.29,165.71,66.34,Delhi,Connaught,manual,True,+919791836098,5,0.8,0.5,True
+2025-09-02 15:10:00,30.82,203.63,48.59,Pune,Shivajinagar,simulated,False,+918668323909,5,0.8,0.5,True
+2025-09-02 15:20:00,33.11,125.3,67.83,Hyderabad,Gachibowli,manual,False,+919144355234,8,0.8,0.5,False
+2025-09-02 15:30:00,42.66,117.86,92.96,Bengaluru,Whitefield,manual,False,+919453265575,4,0.8,0.5,True
+2025-09-02 15:40:00,46.78,149.42,68.87,Pune,Kothrud,sensor,True,+919994456667,2,0.8,0.5,True
+2025-09-02 15:50:00,36.52,283.82,71.38,Mumbai,Branch-02,sensor,True,+917001490894,9,0.8,0.5,True
+2025-09-02 16:00:00,38.82,124.75,43.98,Pune,Kothrud,sensor,True,+918662782712,4,0.8,0.5,True
+2025-09-02 16:10:00,38.49,295.18,18.17,Ahmedabad,Navrangpura,sensor,False,+919147692671,0,0.8,0.5,False
+2025-09-02 16:20:00,25.32,191.21,43.45,Hyderabad,Secunderabad,simulated,True,+918248475421,6,0.8,0.5,True
+2025-09-02 16:30:00,32.61,186.83,12.63,Hyderabad,Banjara Hills,manual,True,+917027001462,1,0.8,0.5,False
+2025-09-02 16:40:00,35.77,105.61,75.04,Bengaluru,Whitefield,sensor,True,+917622956998,10,0.8,0.5,False
+2025-09-02 16:50:00,39.24,184.62,92.36,Bengaluru,MG Road,sensor,False,+917773731331,7,0.8,0.5,True
+2025-09-02 17:00:00,44.04,239.42,49.48,Ahmedabad,Satellite,sensor,False,+917687500633,0,0.8,0.5,False
+2025-09-02 17:10:00,44.96,170.89,45.01,Ahmedabad,Maninagar,simulated,True,+919151473168,0,0.8,0.5,False
+2025-09-02 17:20:00,31.22,182.96,12.45,Delhi,Karol Bagh,sensor,True,+919178346750,7,0.8,0.5,False
+2025-09-02 17:30:00,25.75,82.76,70.12,Delhi,Karol Bagh,manual,True,+918403790931,2,0.8,0.5,True
+2025-09-02 17:40:00,47.65,110.79,47.33,Mumbai,Branch-03,manual,True,+917417560026,7,0.8,0.5,False
+2025-09-02 17:50:00,37.91,285.2,20.47,Chennai,Velachery,simulated,False,+919052965523,10,0.8,0.5,True
+2025-09-02 18:00:00,33.05,248.39,12.41,Bengaluru,MG Road,simulated,True,+918416295407,4,0.8,0.5,False
+2025-09-02 18:10:00,42.43,248.91,56.98,Chennai,Velachery,simulated,True,+918522473544,10,0.8,0.5,True
+2025-09-02 18:20:00,28.63,295.51,26.5,Bengaluru,Electronic City,manual,False,+918104151902,10,0.8,0.5,True
+2025-09-02 18:30:00,27.12,149.8,70.57,Delhi,Dwarka,sensor,True,+917236463670,5,0.8,0.5,False
+2025-09-02 18:40:00,42.65,99.46,36.87,Chennai,T Nagar,simulated,True,+918084244404,6,0.8,0.5,True
+2025-09-02 18:50:00,43.43,246.05,71.49,Kolkata,Howrah,manual,False,+918951043749,10,0.8,0.5,True
+2025-09-02 19:00:00,38.54,178.73,94.78,Delhi,Dwarka,sensor,True,+918144325408,9,0.8,0.5,True
+2025-09-02 19:10:00,26.82,141.22,34.94,Chennai,Adyar,sensor,False,+919241419814,8,0.8,0.5,True
+2025-09-02 19:20:00,25.49,181.35,95.92,Chennai,T Nagar,manual,False,+917139660893,5,0.8,0.5,True
+2025-09-02 19:30:00,35.2,274.65,79.03,Mumbai,Branch-01,sensor,False,+918779133057,1,0.8,0.5,True
+2025-09-02 19:40:00,40.62,101.94,68.99,Ahmedabad,Navrangpura,sensor,False,+917642351904,7,0.8,0.5,True
+2025-09-02 19:50:00,31.52,222.12,88.0,Bengaluru,MG Road,sensor,True,+918746704485,1,0.8,0.5,True
+2025-09-02 20:00:00,25.33,193.63,71.43,Kolkata,Park Street,simulated,False,+918853224096,7,0.8,0.5,True
+2025-09-02 20:10:00,33.34,250.77,87.55,Mumbai,Branch-02,simulated,True,+918398386214,9,0.8,0.5,True
+2025-09-02 20:20:00,27.08,167.7,14.55,Chennai,T Nagar,manual,True,+918793314610,3,0.8,0.5,True
+2025-09-02 20:30:00,27.95,220.69,36.09,Hyderabad,Secunderabad,simulated,False,+918571964118,7,0.8,0.5,False
+2025-09-02 20:40:00,36.19,157.79,5.97,Bengaluru,MG Road,manual,False,+917342192638,6,0.8,0.5,False
+2025-09-02 20:50:00,40.43,246.79,97.1,Ahmedabad,Maninagar,simulated,True,+918619111861,9,0.8,0.5,True
+2025-09-02 21:00:00,41.81,184.49,75.74,Ahmedabad,Satellite,simulated,False,+919677259643,3,0.8,0.5,False
+2025-09-02 21:10:00,46.11,85.39,44.49,Ahmedabad,Navrangpura,simulated,True,+919305997417,10,0.8,0.5,False
+2025-09-02 21:20:00,28.9,281.33,44.32,Chennai,T Nagar,sensor,False,+917716762410,5,0.8,0.5,True
+2025-09-02 21:30:00,27.6,290.86,69.75,Kolkata,Salt Lake,sensor,True,+917411854667,3,0.8,0.5,True
+2025-09-02 21:40:00,25.51,251.78,85.51,Ahmedabad,Satellite,manual,False,+917858000034,9,0.8,0.5,True
+2025-09-02 21:50:00,38.6,156.15,71.21,Pune,Kothrud,simulated,False,+918646644380,9,0.8,0.5,False
+2025-09-02 22:00:00,36.78,179.89,50.05,Mumbai,Branch-03,sensor,False,+918831836272,3,0.8,0.5,False
+2025-09-02 22:10:00,25.18,200.94,16.62,Chennai,Adyar,manual,False,+919786578077,3,0.8,0.5,False
+2025-09-02 22:20:00,28.93,204.06,31.21,Kolkata,Park Street,sensor,False,+917782479634,10,0.8,0.5,False
+2025-09-02 22:30:00,27.97,165.92,24.15,Ahmedabad,Satellite,manual,False,+917496083863,9,0.8,0.5,False
+2025-09-02 22:40:00,46.2,131.13,69.31,Delhi,Dwarka,manual,True,+917839262713,5,0.8,0.5,False
+2025-09-02 22:50:00,41.06,96.21,62.0,Hyderabad,Banjara Hills,sensor,True,+919906154448,9,0.8,0.5,True
+2025-09-02 23:00:00,37.92,92.81,18.85,Ahmedabad,Satellite,simulated,True,+919729276185,9,0.8,0.5,True
+2025-09-02 23:10:00,28.15,239.6,11.43,Ahmedabad,Navrangpura,simulated,False,+918482797092,6,0.8,0.5,False
+2025-09-02 23:20:00,31.92,212.85,87.8,Bengaluru,Electronic City,sensor,False,+917209970610,10,0.8,0.5,True
+2025-09-02 23:30:00,29.48,225.91,40.84,Chennai,Velachery,manual,True,+919396906463,9,0.8,0.5,False
+2025-09-02 23:40:00,28.29,141.16,41.55,Delhi,Connaught,manual,True,+918263970543,9,0.8,0.5,True
+2025-09-02 23:50:00,38.45,180.78,46.11,Hyderabad,Secunderabad,simulated,False,+918874155529,10,0.8,0.5,True
+2025-09-03 00:00:00,36.84,241.72,97.16,Pune,Shivajinagar,simulated,False,+917387568164,4,0.8,0.5,False
+2025-09-03 00:10:00,41.98,284.5,84.06,Pune,Kothrud,manual,False,+918650056562,6,0.8,0.5,False
+2025-09-03 00:20:00,42.32,141.76,89.0,Pune,Hinjewadi,sensor,False,+918414119296,10,0.8,0.5,True
+2025-09-03 00:30:00,31.59,140.82,36.05,Bengaluru,Whitefield,manual,False,+918776440371,0,0.8,0.5,False
+2025-09-03 00:40:00,37.51,244.44,95.99,Ahmedabad,Maninagar,simulated,True,+917323725516,5,0.8,0.5,True
+2025-09-03 00:50:00,34.27,280.18,9.2,Hyderabad,Gachibowli,sensor,False,+919836707483,9,0.8,0.5,True
+2025-09-03 01:00:00,27.7,283.05,80.76,Chennai,Adyar,simulated,True,+919970792290,6,0.8,0.5,True
+2025-09-03 01:10:00,35.84,294.03,24.22,Delhi,Connaught,simulated,False,+919633133368,0,0.8,0.5,True
+2025-09-03 01:20:00,47.51,118.82,57.26,Ahmedabad,Navrangpura,sensor,True,+918976887171,1,0.8,0.5,False
+2025-09-03 01:30:00,43.02,297.0,75.64,Delhi,Karol Bagh,simulated,False,+917656502493,8,0.8,0.5,True
+2025-09-03 01:40:00,29.6,124.04,73.84,Delhi,Karol Bagh,simulated,False,+917864741126,4,0.8,0.5,False
+2025-09-03 01:50:00,47.75,247.17,91.42,Ahmedabad,Satellite,manual,True,+919997511726,0,0.8,0.5,True
+2025-09-03 02:00:00,36.08,286.08,26.73,Bengaluru,Electronic City,sensor,False,+917537940010,10,0.8,0.5,True
+2025-09-03 02:10:00,30.83,100.1,35.99,Kolkata,Park Street,simulated,False,+917172842965,0,0.8,0.5,True
+2025-09-03 02:20:00,46.88,190.93,89.41,Bengaluru,Whitefield,manual,True,+919424087889,9,0.8,0.5,False
+2025-09-03 02:30:00,27.16,111.22,23.59,Kolkata,Park Street,simulated,True,+919186339855,4,0.8,0.5,True
+2025-09-03 02:40:00,42.9,100.92,6.84,Kolkata,Salt Lake,manual,False,+917497476337,10,0.8,0.5,False
+2025-09-03 02:50:00,33.34,119.05,38.21,Pune,Kothrud,manual,False,+917744637424,2,0.8,0.5,False
+2025-09-03 03:00:00,41.88,175.13,49.13,Ahmedabad,Satellite,simulated,False,+917126345614,8,0.8,0.5,False
+2025-09-03 03:10:00,33.62,112.87,63.89,Mumbai,Branch-01,sensor,False,+917100566419,4,0.8,0.5,True
+2025-09-03 03:20:00,33.56,103.0,18.62,Mumbai,Branch-01,sensor,True,+918677050761,9,0.8,0.5,True
+2025-09-03 03:30:00,28.43,200.31,84.47,Kolkata,Howrah,manual,False,+919619274658,0,0.8,0.5,False
+2025-09-03 03:40:00,41.29,143.81,13.26,Chennai,T Nagar,manual,False,+919666276428,4,0.8,0.5,False
+2025-09-03 03:50:00,47.82,147.26,93.4,Kolkata,Salt Lake,sensor,True,+917228139213,4,0.8,0.5,True
+2025-09-03 04:00:00,47.28,132.26,72.62,Delhi,Karol Bagh,manual,True,+918209445041,5,0.8,0.5,True
+2025-09-03 04:10:00,46.83,209.14,61.65,Mumbai,Branch-02,simulated,False,+917283755075,10,0.8,0.5,False
+2025-09-03 04:20:00,42.19,241.08,11.74,Kolkata,Howrah,sensor,False,+917531322454,2,0.8,0.5,True
+2025-09-03 04:30:00,38.05,255.6,27.49,Mumbai,Branch-03,sensor,True,+919517492316,1,0.8,0.5,False
+2025-09-03 04:40:00,46.36,251.99,20.54,Mumbai,Branch-02,manual,False,+919474028180,0,0.8,0.5,True
+2025-09-03 04:50:00,46.02,188.87,8.95,Ahmedabad,Satellite,sensor,False,+918315919779,7,0.8,0.5,False
+2025-09-03 05:00:00,37.34,209.05,62.22,Delhi,Dwarka,simulated,True,+919974831820,1,0.8,0.5,False
+2025-09-03 05:10:00,47.7,175.46,39.64,Hyderabad,Secunderabad,sensor,True,+918820018963,10,0.8,0.5,True
+2025-09-03 05:20:00,38.69,242.32,60.48,Pune,Hinjewadi,simulated,False,+918056224786,4,0.8,0.5,True
+2025-09-03 05:30:00,45.76,227.14,66.43,Hyderabad,Secunderabad,manual,True,+918317205131,5,0.8,0.5,False
+2025-09-03 05:40:00,25.58,195.13,58.58,Chennai,Velachery,manual,True,+917403364774,0,0.8,0.5,False
+2025-09-03 05:50:00,38.19,296.36,45.57,Hyderabad,Banjara Hills,sensor,False,+918759645874,4,0.8,0.5,False
+2025-09-03 06:00:00,40.14,294.1,78.38,Kolkata,Salt Lake,simulated,True,+918914218370,0,0.8,0.5,True
+2025-09-03 06:10:00,25.89,269.73,82.58,Ahmedabad,Navrangpura,simulated,False,+917655227742,8,0.8,0.5,True
+2025-09-03 06:20:00,37.94,176.29,20.77,Hyderabad,Gachibowli,sensor,True,+918068347115,7,0.8,0.5,True
+2025-09-03 06:30:00,25.98,189.35,12.0,Mumbai,Branch-01,simulated,True,+917027957664,7,0.8,0.5,True
+2025-09-03 06:40:00,37.66,221.73,93.43,Delhi,Dwarka,sensor,True,+919928233033,10,0.8,0.5,True
+2025-09-03 06:50:00,25.8,262.37,47.48,Hyderabad,Banjara Hills,simulated,True,+919874812741,4,0.8,0.5,False
+2025-09-03 07:00:00,28.65,253.51,55.68,Mumbai,Branch-01,manual,True,+918963149378,10,0.8,0.5,False
+2025-09-03 07:10:00,28.68,144.81,58.23,Ahmedabad,Navrangpura,sensor,False,+919058221259,2,0.8,0.5,False
+2025-09-03 07:20:00,25.94,81.85,76.8,Ahmedabad,Satellite,simulated,False,+917064616362,1,0.8,0.5,False
+2025-09-03 07:30:00,38.31,246.8,94.58,Kolkata,Park Street,sensor,False,+917909496565,8,0.8,0.5,False
+2025-09-03 07:40:00,29.58,135.05,71.3,Pune,Shivajinagar,simulated,False,+918013870491,7,0.8,0.5,True
+2025-09-03 07:50:00,31.32,157.04,26.46,Chennai,Adyar,manual,True,+918646103790,6,0.8,0.5,False
+2025-09-03 08:00:00,46.8,197.28,44.17,Bengaluru,Electronic City,manual,False,+918848363068,3,0.8,0.5,True
+2025-09-03 08:10:00,29.89,184.06,5.71,Ahmedabad,Satellite,manual,False,+919075742579,4,0.8,0.5,False
+2025-09-03 08:20:00,28.72,230.44,69.34,Ahmedabad,Satellite,manual,False,+917955766898,9,0.8,0.5,False
+2025-09-03 08:30:00,37.52,249.82,26.82,Bengaluru,Whitefield,sensor,False,+917858419038,7,0.8,0.5,False
+2025-09-03 08:40:00,44.3,226.39,72.81,Hyderabad,Banjara Hills,sensor,True,+918767050165,6,0.8,0.5,True
+2025-09-03 08:50:00,36.53,297.7,38.96,Bengaluru,Electronic City,manual,True,+919621743813,3,0.8,0.5,True
+2025-09-03 09:00:00,41.6,222.87,98.64,Chennai,T Nagar,sensor,True,+919427883672,6,0.8,0.5,True
+2025-09-03 09:10:00,45.31,198.72,49.69,Mumbai,Branch-02,sensor,True,+918629772251,3,0.8,0.5,False
+2025-09-03 09:20:00,36.85,89.88,91.0,Delhi,Karol Bagh,manual,False,+919383942148,5,0.8,0.5,True
+2025-09-03 09:30:00,35.97,255.66,97.98,Delhi,Dwarka,manual,True,+917572098543,7,0.8,0.5,False
+2025-09-03 09:40:00,45.9,177.37,28.22,Delhi,Karol Bagh,sensor,False,+917389006164,9,0.8,0.5,False
+2025-09-03 09:50:00,30.32,232.94,5.49,Pune,Kothrud,manual,False,+917702647589,9,0.8,0.5,True
+2025-09-03 10:00:00,35.95,196.33,29.82,Pune,Hinjewadi,simulated,False,+918816323306,1,0.8,0.5,False
+2025-09-03 10:10:00,45.74,247.94,90.36,Mumbai,Branch-02,simulated,True,+918828406096,0,0.8,0.5,False
+2025-09-03 10:20:00,45.89,295.95,58.19,Bengaluru,Electronic City,simulated,False,+918765951690,6,0.8,0.5,True
+2025-09-03 10:30:00,30.99,273.73,14.56,Bengaluru,MG Road,manual,False,+919141256474,2,0.8,0.5,False
+2025-09-03 10:40:00,42.34,93.43,44.35,Ahmedabad,Satellite,manual,False,+917052149497,2,0.8,0.5,False
+2025-09-03 10:50:00,44.84,258.21,21.98,Kolkata,Howrah,sensor,True,+917917409029,1,0.8,0.5,False
+2025-09-03 11:00:00,33.3,226.91,42.67,Ahmedabad,Navrangpura,simulated,False,+919564327808,3,0.8,0.5,True
+2025-09-03 11:10:00,44.56,252.37,40.19,Pune,Kothrud,sensor,False,+919682053074,8,0.8,0.5,False
+2025-09-03 11:20:00,35.21,211.55,76.64,Hyderabad,Gachibowli,simulated,True,+919610240769,2,0.8,0.5,False
+2025-09-03 11:30:00,46.81,269.4,71.46,Ahmedabad,Satellite,manual,True,+919213751047,7,0.8,0.5,False
+2025-09-03 11:40:00,28.88,251.18,80.33,Pune,Hinjewadi,manual,True,+918893490561,0,0.8,0.5,False
+2025-09-03 11:50:00,40.04,234.9,76.68,Delhi,Connaught,simulated,False,+917945850224,2,0.8,0.5,True
+2025-09-03 12:00:00,43.42,95.19,58.79,Ahmedabad,Maninagar,simulated,False,+918374746169,9,0.8,0.5,True
+2025-09-03 12:10:00,42.63,159.43,53.95,Delhi,Connaught,sensor,True,+919308524912,9,0.8,0.5,False
+2025-09-03 12:20:00,45.34,176.15,90.08,Delhi,Dwarka,manual,True,+919726581213,3,0.8,0.5,False
+2025-09-03 12:30:00,26.63,244.44,37.28,Chennai,Velachery,simulated,True,+917771901582,3,0.8,0.5,True
+2025-09-03 12:40:00,30.37,204.67,93.12,Ahmedabad,Maninagar,sensor,False,+917840562566,4,0.8,0.5,False
+2025-09-03 12:50:00,37.59,211.03,54.31,Pune,Kothrud,sensor,False,+917573206526,3,0.8,0.5,True
+2025-09-03 13:00:00,46.4,88.6,42.59,Chennai,Velachery,simulated,True,+919010164853,3,0.8,0.5,False
+2025-09-03 13:10:00,41.61,124.93,66.89,Kolkata,Park Street,manual,True,+918420587218,6,0.8,0.5,True
+2025-09-03 13:20:00,32.03,201.82,62.27,Ahmedabad,Maninagar,manual,True,+919134158967,10,0.8,0.5,True
+2025-09-03 13:30:00,36.81,207.88,19.5,Mumbai,Branch-03,manual,True,+919391244898,3,0.8,0.5,True
+2025-09-03 13:40:00,44.38,87.97,31.65,Delhi,Dwarka,simulated,False,+919264479257,4,0.8,0.5,True
+2025-09-03 13:50:00,44.61,114.08,95.56,Kolkata,Park Street,sensor,False,+919337745229,6,0.8,0.5,True
+2025-09-03 14:00:00,29.55,281.11,13.5,Ahmedabad,Satellite,simulated,False,+918780497536,1,0.8,0.5,True
