@@ -1,7 +1,6 @@
 # TechCare_Solutions
 🏥 AI-powered medical coding automation system using LangGraph multi-agent RAG architecture on GCP. Converts clinical notes to ICD-9/CPT codes with 90%+ accuracy, reducing coding time from hours to minutes.
 
-### 📹 [Demo Video](https://drive.google.com/file/d/1IkJ-_2Nc0JJRPdC28bHURlco2r90nKSx/view?usp=sharing)
 
 ### To Download Dataset ➡️ [Click Here](https://drive.google.com/file/d/11NwIbnVruhtqIk09yQ4BqjwU5kxW3N5Q/view?usp=sharing)
 
@@ -179,15 +178,7 @@ We welcome contributions!
 4. Push to branch (`git push origin feature/amazing-feature`)  
 5. Open a Pull Request
 
-## 📄 License
 
-This project is under the Supervision of GenAI Cognixia (Ascendion).
-
-## 👥 Team
-
-- **[Jonah Prashanth]** - *Backend Lead 1* - [@teammate1](https://github.com/jonahprashanth)
-- **[Gunraj Singh]** - *Frontend Lead* - [@teammate2](https://github.com/gunraj786)
-- **[Sharaneeshvar]** - *Backend Lead 2* - [@teammate3](https://github.com/sharaneeshvar)
 
 ## 🙏 Acknowledgments
 
@@ -196,11 +187,6 @@ This project is under the Supervision of GenAI Cognixia (Ascendion).
 - **LangChain Team** for LangGraph framework
 - **Medical Coding Community** for domain expertise
 
-## 📞 Support
-
-- 📧 Email: singh.gunraj0812@gmail.com
-- 💬 Issues: [GitHub Issues](https://github.com/gunraj786/TechCare_Solutions/issues)
-- 📖 Documentation: [Project Docs](https://github.com/gunraj786/TechCare_Solutions/blob/main/README.md)
 
 ---
 
