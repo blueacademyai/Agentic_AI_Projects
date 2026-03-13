@@ -427,14 +427,6 @@ https://drive.google.com/file/d/1SpqM0nVZdy54lsTloOT-7_mFEs5ZQNNV/view?usp=shari
 - **Documentation**: Comprehensive guides and API references
 - **Community Forum**: Connect with other users and developers
 
-### Contact Information
-- **Email**: sharaneeshvar01@gmail.com.com
-- **GitHub**: https://github.com/sharaneeshvar/EnerVision_Agentic_AI_Driven_Smart_Branch_Energy_Optimization
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Google Gemini AI**: Powering our GenAI capabilities
