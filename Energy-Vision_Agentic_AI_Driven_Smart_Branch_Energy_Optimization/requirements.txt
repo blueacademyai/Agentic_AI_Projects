@@ -1,0 +1,67 @@
+# Core Streamlit and Web Framework
+streamlit
+streamlit-authenticator
+#streamlit-calendar
+
+# Data Processing and Analysis
+pandas
+numpy
+scipy
+
+# Visualization
+plotly
+matplotlib
+seaborn
+
+# Machine Learning and AI
+scikit-learn
+sentence-transformers
+faiss-cpu
+
+# Google AI and LangChain
+google-generativeai
+langchain
+langchain-google-genai
+langgraph
+langsmith
+
+# AgentOps for monitoring
+agentops
+
+# Document Processing
+PyPDF2
+python-docx
+python-pptx
+
+# Email and Communication
+email-validator
+
+# Database and Storage
+sqlalchemy
+psycopg2-binary  # For PostgreSQL
+statsmodels
+
+# Utilities
+python-dotenv
+pydantic
+typing-extensions
+langfuse
+# Date and Time
+python-dateutil
+pytz
+
+# HTTP and API
+requests
+httpx
+
+# Async Support
+aiofiles
+
+# Development and Testing
+pytest
+pytest-asyncio
+black
+flake8
+
+# Environment Configuration
+python-decouple
