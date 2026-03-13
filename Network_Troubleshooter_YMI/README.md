@@ -483,12 +483,6 @@ export ENABLE_CACHING=true
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙋‍♂️ Support & Community
 
 <div align="center">
@@ -498,11 +492,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![MLflow Dashboard](https://img.shields.io/badge/🔬_MLflow-Tracking-0194E2?style=for-the-badge)](http://localhost:5000)
 [![Documentation](https://img.shields.io/badge/📖_Documentation-blue?style=for-the-badge)](https://docs.your-domain.com)
 [![Discord](https://img.shields.io/badge/💬_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
-
-**Built by the GenAI Team**
-- [Ishika Saha] (https://github.com/Ixhika)
-- [Yaswanth Merugumala] (https://github.com/yaswanthmerugumala)
-- [Manjusha Merugu] (https://github.com/manjushamerugu)
 
 
 *Featuring FastAPI for robust API services, Streamlit for intuitive user experience, and MLflow for comprehensive ML operations*
